@@ -2,12 +2,12 @@
 # Create a variable for your lucky number and print it.
 
 L=7
-print L
+print(L)
 # Problem 2
 # Create a variable for the number of hours you sleep and print it.
 
 S=5
-print S
+print(S)
 # Problem 3
 # Create a variable for your favorite fruit and print it in a full sentence.
 
@@ -20,7 +20,8 @@ print("My favorite fruit is" , FF)
 
 Ci="Lakewood"
 Co="Phillipines"
-
+print(Ci)
+print(Co)
 
 # Problem 5
 # Create 3 variables: your pet's name, its age, and its type.
