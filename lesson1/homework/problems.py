@@ -19,7 +19,7 @@ print("My favorite fruit is" , FF)
 # Print them on 2 separate lines.
 
 Ci="Lakewood"
-Co="Phillipines"
+Co="USA"
 print(Ci)
 print(Co)
 
