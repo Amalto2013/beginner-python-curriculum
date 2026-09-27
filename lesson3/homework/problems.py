@@ -2,8 +2,14 @@
 # Ask user for two test scores.
 # If BOTH scores are at least 50, print "You passed both!"
 # Otherwise, print "You failed at least one."
-
-
+ts= int(input("Enter your first score on the test.: "))
+ts2= int(input("Enter your second score.: "))
+if ts >=50 and ts2 >=50:
+    print("Nice one, you passed on both!")
+elif ts < 50 or ts2 < 50:
+    print("You failed at least one.")
+else: ts < 50 and ts2 < 50
+print("Yikes, You failed both.")
 
 # Problem 2
 # Ask user if they brought lunch and water (yes/no).
